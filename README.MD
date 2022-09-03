@@ -13,4 +13,5 @@ Follow [official VSC tutorial](https://code.visualstudio.com/docs/cpp/config-msv
 
 # Futher reading
 
-[Official Win32 introduction](https://docs.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)
+[Official Win32 introduction](https://docs.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program)  
+[Docs on UI and Controls](https://docs.microsoft.com/en-us/windows/win32/controls/window-controls)
